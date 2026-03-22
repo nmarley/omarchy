@@ -21,8 +21,6 @@ docker
 docker-buildx
 docker-compose
 dust
-evince
-eza
 fastfetch
 fcitx5
 fcitx5-gtk
@@ -53,8 +51,6 @@ iwd
 jq
 kdenlive
 kvantum-qt5
-lazydocker
-lazygit
 less
 libyaml
 libqalculate
@@ -77,7 +73,6 @@ nvim
 obs-studio
 obsidian
 omarchy-chromium
-omarchy-lazyvim
 pamixer
 pinta
 playerctl
@@ -92,9 +87,7 @@ python-terminaltexteffects
 qt5-wayland
 ripgrep
 satty
-signal-desktop
 slurp
-spotify
 starship
 sushi
 swaybg
@@ -105,7 +98,6 @@ tree-sitter-cli
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
-typora
 tzupdate
 ufw
 ufw-docker
